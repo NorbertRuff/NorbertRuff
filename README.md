@@ -12,10 +12,11 @@
 - 🔭 I’m currently working on Frontend skills 🚀
 - 🎓 I’m currently learning at Codecool Full-Stack Course.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Start working as a developer
+- 🥅 2021 Goals: Learn sass, less. 
+- 🥅 2022 Goals: Start working as a developer.
 - 💬 Ask me about anything, I am happy to help :wink:
-- 🧗 I try to go beyond and push the bounds
-- ⚡ Fun fact: I love old things :raised_hands:
+- 🧗 I try to go beyond and push the bounds.
+- ⚡ Fun fact: I love old technology :raised_hands:
   
 <div align="center">
 
@@ -40,6 +41,10 @@
 
 
 ## My Skill Set 👩‍💻
+
+<div align="center">  
+<img src="https://www.codewars.com/users/NorbertRuff/badges/large">
+</div>
 
 <table><tr><td valign="top" width="25%">
 <h2 align="center"> 💻 </h2><br>
