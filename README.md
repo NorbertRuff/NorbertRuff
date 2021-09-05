@@ -16,7 +16,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Norbert%20Ruff-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ruff-norbert-6b167b204//)](https://www.linkedin.com/in/ruff-norbert-6b167b204/)
-[![Gmail Badge](https://img.shields.io/badge/-ruffnorbert88@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ruffnorbert88@gmail.com)](mailto:prajadhav1243@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ruffnorbert88@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ruffnorbert88@gmail.com)](mailto:ruffnorbert88@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord:Ruff Norbert#9289)
 
 </div>
@@ -38,11 +38,11 @@
 
 <table><tr><td valign="top" width="33%">
 
-### 💻
+<h2 align="center"> 💻 </h2><br>
 
 <div align="center">  
 
-</div>
+
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
@@ -51,11 +51,11 @@
 <img src="https://aleen42.github.io/badges/src/illustrator.svg" height="25">
 <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" height="25">
 <img src="https://aleen42.github.io/badges/src/flash.svg" height="25">
-
+</div>
 
 </td><td valign="top" width="33%">
 
-### 🌐
+<h2 align="center"> 🌐 </h2><br>
 
 <div align="center">  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25">
@@ -68,7 +68,7 @@
 
 </td><td valign="top" width="33%">
 
-### ⚙
+<h2 align="center"> ⚙ </h2><br>
 
 <div align="center">
 
@@ -82,9 +82,10 @@
 </div>
 
 </td></tr></table>  
-<br/>
+<div align="center">
 
 Credit: [Norbert Ruff](https://github.com/NorbertRuff)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NorbertRuff&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NorbertRuff&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 Last Edited on: 05/09/2021
 
+</div>
