@@ -101,8 +101,7 @@
 
 <div align="center">
 
-Credit: [Norbert Ruff](https://github.com/NorbertRuff)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NorbertRuff&label=Profile%20views&color=0e75b6&style=flat-square" alt="prathmesh" /> </p>
-Last Edited on: 05/09/2021
+
 
 </div>
