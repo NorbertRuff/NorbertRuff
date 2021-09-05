@@ -2,11 +2,12 @@
 
 ![](https://raw.githubusercontent.com/NorbertRuff/NorbertRuff/master/static/fullstack.gif)
 
+
+<h2> Hey there👋! I'm Norbert Ruff. </h2>
+<h3> I am a Full-Stack Software Developer student at Codecool. </h3>
+
 </div>
-
-<h2 align="center"> Hey there👋! I'm Norbert Ruff. </h2>
-<h3 align="center"> I am a Full-Stack Software Developer student at Codecool. </h3>
-
+  
 ## 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on Frontend skills 🚀
 - 🎓 I’m currently learning at Codecool Full-Stack Course.
@@ -17,12 +18,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Norbert%20Ruff-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ruff-norbert-6b167b204//)](https://www.linkedin.com/in/ruff-norbert-6b167b204/)
 [![Gmail Badge](https://img.shields.io/badge/-ruffnorbert88@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ruffnorbert88@gmail.com)](mailto:ruffnorbert88@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord:Ruff Norbert#9289)
+![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
+<div align="center">
 
 [![](https://raw.githubusercontent.com/NorbertRuff/NorbertRuff/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -30,7 +32,7 @@
 
 [![](https://raw.githubusercontent.com/NorbertRuff/NorbertRuff/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NorbertRuff/NorbertRuff/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+</div>
 
 
 
