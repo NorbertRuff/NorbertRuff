@@ -11,8 +11,11 @@
 ## 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on Frontend skills 🚀
 - 🎓 I’m currently learning at Codecool Full-Stack Course.
-- 💼
-- ⚡ Fun fact:
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2022 Goals: Start working as a developer
+- 💬 Ask me about anything, I am happy to help :wink:
+- 🧗 I try to go beyond and push the bounds
+- ⚡ Fun fact: I love old things :raised_hands:
   
 <div align="center">
 
