@@ -52,10 +52,21 @@
 <div align="center">  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="25">
+  
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="25">
+  
+<img src="https://img.shields.io/badge/shell_script-%23121011?style=flat-square&logo=shell&logoColor=white" height="25">
+  
+<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" height="25">  
+  
+<img src="https://img.shields.io/badge/spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" height="25">
+  
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="25">
+  
+  
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white" height="25">
+  
+  
 </div>
 
 
@@ -70,6 +81,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="25">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E?style=flat-square&logo=nestjs&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F?style=flat-square&logo=Thymeleaf&logoColor=white" height="25">
 
 </div>
 
@@ -81,10 +98,15 @@
 
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/NPM-%23000000?style=flat-square&logo=npm&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
+<img src="https://img.shields.io/badge/githubactions-%232671E5?style=flat-square&logo=githubactions&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=white" height="25">  
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" height="25">  
+<img src="https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white" height="25">  
 
 </div>
 
@@ -94,7 +116,7 @@
 <h2 align="center"> 🎨 </h2><br>
 
 <div align="center">
- <img src="https://aleen42.github.io/badges/src/photoshop.svg" height="25">
+<img src="https://aleen42.github.io/badges/src/photoshop.svg" height="25">
 <img src="https://aleen42.github.io/badges/src/illustrator.svg" height="25">
 <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" height="25">
 <img src="https://aleen42.github.io/badges/src/flash.svg" height="25">
