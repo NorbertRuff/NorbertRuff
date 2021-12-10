@@ -4,16 +4,15 @@
 
 
 <h2> Hey there👋! I'm Norbert Ruff. </h2>
-<h3> I am a Full-Stack Software Developer student at Codecool. </h3>
+<h3> I am a Full-Stack Software Developer intern working and learning at Apex Lab. </h3>
 
 </div>
   
 ## 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on Frontend skills 🚀
-- 🎓 I’m currently learning at Codecool Full-Stack Course.
+- 🎓 I recently completed Codecool Hungary Full-Stack developer bootcamp.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Learn sass, less. 
-- 🥅 2022 Goals: Start working as a developer.
+- 🥅 2022 Goals: Learn scss, less css, typescript, front-end frameworks.
 - 💬 Ask me about anything, I am happy to help :wink:
 - 🧗 I try to go beyond and push the bounds.
 - ⚡ Fun fact: I love old technology :raised_hands:
