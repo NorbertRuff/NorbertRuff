@@ -40,7 +40,7 @@
 
 
 ## My Skill Set 👩‍💻
-
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <div align="center">  
 <img src="https://www.codewars.com/users/NorbertRuff/badges/large">
 </div>
@@ -56,10 +56,10 @@
   
 <img src="https://img.shields.io/badge/shell_script-%23121011?style=flat-square&logo=shell&logoColor=white" height="25">
   
-<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" height="25">  
-  
 <img src="https://img.shields.io/badge/spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" height="25">
-  
+   
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00" height="25">
+   
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="25">
   
   
