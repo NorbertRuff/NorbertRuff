@@ -9,8 +9,9 @@
 </div>
   
 ## 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on Frontend skills 🚀
-- 🎓 I recently completed Codecool Hungary Full-Stack developer bootcamp.
+- 💼 I’m currently working at Apex Lab 💣
+- 🔭 I’m working on developing my frontend skills 🚀
+- 🎓 Last year I completed Codecool Hungary Full-Stack developer bootcamp.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Learn scss, less css, typescript, front-end frameworks.
 - 💬 Ask me about anything, I am happy to help :wink:
