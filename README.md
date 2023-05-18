@@ -4,7 +4,7 @@
 
 
 <h2> Hey there👋! I'm Norbert Ruff. </h2>
-<h3> I am a Full-Stack Software Developer intern working and learning at Apex Lab. </h3>
+<h3> I am a Fully Full-Stack Software Developer working and learning at Apex Lab. </h3>
 
 </div>
   
