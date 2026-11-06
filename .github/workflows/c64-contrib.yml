@@ -1,0 +1,31 @@
+name: C64 contribution screen
+
+on:
+  schedule: # once a day at 04:00 UTC (after the summary cards)
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - name: Generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tools/c64_contrib.py ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add c64-contrib
+          if git commit -m "Generate C64 contribution screen"; then
+            git pull --rebase
+            git push
+          fi
