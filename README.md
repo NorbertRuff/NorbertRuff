@@ -13,7 +13,7 @@
 ```markdown
 - 💼 Full-Stack Developer & Cloud Architect at Apex Lab since 2021
 - ☁️ AWS Certified Developer – Associate & Cloud Practitioner
-- 🔌 Off the clock I build on real hardware: ESP32s, servos, SDRs, Game Boys
+- 🔌 Off the clock I build on real hardware: ESP32s, SBCs, servos, Game Boys
 - 🥅 2026 goals: ship the pet projects, not just start them
 - ⚡ Fun fact: I still love old technology 🙌
 ```

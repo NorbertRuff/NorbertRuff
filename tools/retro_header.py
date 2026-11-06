@@ -39,7 +39,7 @@ SCRIPT = [
     ("type", "RUN", 7.2, LIGHT_BLUE),
     ("show", "> SENIOR FULL-STACK DEV & CLOUD ARCHITECT", 8.4, WHITE),
     ("show", "> APEX LAB / AWS CERTIFIED DEVELOPER", 9.0, CYAN),
-    ("show", "> ROBOTS, GAME BOY ROMS & SDRS AFTER DARK", 9.6, GREEN),
+    ("show", "> ROBOTS, GAME BOY ROMS & SBCS AFTER DARK", 9.6, GREEN),
 ]
 LOADING_WINDOW = (3.4, 6.6)  # border flashes tape-loading stripes
 TYPE_SPEED = 0.09            # seconds per typed character
