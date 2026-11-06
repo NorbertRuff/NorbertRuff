@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.vscode/
+
+# Python (tools/*.py)
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local tooling
+.remember/
+.claude/settings.local.json
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
