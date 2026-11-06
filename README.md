@@ -49,17 +49,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,python,go,c,cpp,react,nodejs,aws,docker,postgres,linux,arduino&theme=dark" alt="TypeScript, Python, Go, C, C++, React, Node.js, AWS, Docker, PostgreSQL, Linux, Arduino"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,java,kotlin,c,cpp,react,nextjs,svelte,nodejs,nestjs,graphql,prisma,aws,docker,githubactions,postgres,redis,linux,arduino,raspberrypi,bash&perline=12&theme=dark" alt="TypeScript, JavaScript, Python, Go, Java, Kotlin, C, C++, React, Next.js, Svelte, Node.js, NestJS, GraphQL, Prisma, AWS, Docker, GitHub Actions, PostgreSQL, Redis, Linux, Arduino, Raspberry Pi, Bash"/>
 
 <sub>…and whatever the project needs next.</sub>
-
-<sub>🎨 Retro corner:</sub>
-<img src="https://badges.aleen42.com/src/flash.svg" height="18" alt="flash">
-<img src="https://badges.aleen42.com/src/dreamweaver.svg" height="18" alt="dreamweaver">
-<img src="https://badges.aleen42.com/src/photoshop.svg" height="18" alt="photoshop">
-<img src="https://badges.aleen42.com/src/illustrator.svg" height="18" alt="illustrator">
-<img src="https://badges.aleen42.com/src/after_effects.svg" height="18" alt="after effects">
-<img src="https://badges.aleen42.com/src/premiere.svg" height="18" alt="premiere">
 
 </div>
 
