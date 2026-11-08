@@ -22,12 +22,11 @@
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| 🤖 **Wheatley** | 3D-printed animatronic Wheatley: speech-to-text, LLM, TTS and 11 servos | Python · Radxa Zero 3W |
-| 🧊 **Cubli** | Self-balancing cube on three reaction wheels, PID tuning over Bluetooth | ESP32 · C++ · Kotlin |
-| 💧 **HangaPalack** | DIY smart water bottle: load cell, LEDs and a BLE companion app | ESP32-C3 · React Native |
-| 🎮 **[Code Breach](https://github.com/NorbertRuff/code-breach-gameboy)** | A 5-level Game Boy / Game Boy Color platformer, [v1.0 released](https://github.com/NorbertRuff/code-breach-gameboy/releases/latest) | C · GBDK-2020 |
-| 📡 **Spectrum Analyzer** | Turns an ADALM Pluto SDR into a real-time RF sweep visualiser | Python · PyQt6 |
-| ⌚ **Pixel Watch Face** | Custom Wear OS face for the Pixel Watch 4 | Watch Face Format · Kotlin |
+| 🤖 **Wheatley** | 3D-printed animatronic Wheatley: speech-to-text, LLM, TTS and servos | Python · Radxa Zero 3W |
+| 🧊 **Cubli** | Self-balancing cube on three reaction wheel | ESP32 · C++ · Kotlin |
+| 💧 **HangaPalack** | DIY smart water bottle | ESP32-C3 · React Native |
+| 🎮 **[Code Breach](https://github.com/NorbertRuff/code-breach-gameboy)** | Game Boy / Game Boy Color platformer | C · GBDK-2020 |
+| 📡 **Spectrum Analyzer** | Real-time RF sweep visualiser | Python · PyQt6 |
 | 📊 **[NeoGauge](https://github.com/NorbertRuff/NeoGauge)** | Hardware monitor skin for Rainmeter | Rainmeter · Lua |
 
 ### 🎬 Straight from the workbench
@@ -36,12 +35,12 @@
   <tr>
     <td align="center"><a href="https://github.com/NorbertRuff/code-breach-gameboy"><img src="static/demos/code-breach.gif" height="220" alt="Code Breach gameplay on Game Boy Color"/></a></td>
     <td align="center"><img src="static/demos/cubli.gif" height="220" alt="Cubli balancing on its edge"/></td>
-    <td align="center"><img src="static/demos/wheatley.jpg" height="220" alt="My 3D-printed Wheatley with its eye lit up"/></td>
+    <td align="center"><img src="static/demos/wheatley.jpg" height="220" alt="My 3D-printed Wheatley"/></td>
   </tr>
   <tr>
     <td align="center"><b><a href="https://github.com/NorbertRuff/code-breach-gameboy">Code Breach</a></b><br/><sub>Game Boy platformer in C · <a href="https://github.com/NorbertRuff/code-breach-gameboy/releases/latest">grab the ROM</a></sub></td>
     <td align="center"><b>Cubli</b><br/><sub>ESP32 reaction-wheel cube</sub></td>
-    <td align="center"><b>Wheatley</b><br/><sub>work in progress: servos next</sub></td>
+    <td align="center"><b>Wheatley</b><br/><sub>From Portal2</sub></td>
   </tr>
 </table>
 
